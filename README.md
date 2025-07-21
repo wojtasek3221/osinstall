@@ -1,2 +1,2 @@
 # osinstall
-Os installer will format target device, flash iso/img file and configure the operating system
+Very simple installer for various linux operating systems. For now app is fully compatible with any linux distro and macos but full compatibility is not guaranted for now
